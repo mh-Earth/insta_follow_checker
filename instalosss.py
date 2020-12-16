@@ -1,3 +1,5 @@
+#First install the tool instaloader by entering following command in cmd
+#pip install instaloader
 from instaloader import instaloader
 
 insta = instaloader.Instaloader()
